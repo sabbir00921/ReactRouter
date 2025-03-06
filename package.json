@@ -1,11 +1,9 @@
-{"homepage": "https://sabbir00921.github.io/ReactRouter",
+{
   "name": "react-route",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -32,4 +30,3 @@
     "vite": "^6.2.0"
   }
 }
- 
